@@ -1,0 +1,6 @@
+In this folder, there is a wiring diagram of the system, and a circuit diagram (coming soon). 
+Wiring diagram:
+  Red wire      =   + battery
+  Green wire    =   - battery
+  Purple wire   =   hall effect signal
+  blue wire     =   buzzer signal
