@@ -1,6 +1,11 @@
-In this folder, there is a wiring diagram of the system, and a circuit diagram (coming soon). 
+In this folder, there is a wiring diagram of the system, and a circuit diagram (image & KiCad file). 
+
 Wiring diagram:
   Red wire      =   + battery
   Green wire    =   - battery
   Purple wire   =   hall effect signal
   blue wire     =   buzzer signal
+
+Circuit diagram:
+  The circuit diagram goes into more detail of the board, showing the diodes, the resistor, the buzzer, 
+  the connectors, and the hall effect sensor. 
